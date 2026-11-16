@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,30:111827,70:6D28D9,100:06B6D4&height=220&text=ABAWU&fontColor=F8FAFC&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Cloud%20%7C%20Mobile%20%7C%20Full%20Stack%20%7C%20Founder%20Mindset&descAlignY=60&descSize=16&descColor=67E8F9" width="100%" alt="Futuristic cyberpunk GitHub profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,30:111827,70:6D28D9,100:06B6D4&height=220&text=Befekadu%20Berhanu&fontColor=F8FAFC&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Cloud%20%7C%20Mobile%20%7C%20Full%20Stack%20%7C%20Founder%20Mindset&descAlignY=60&descSize=16&descColor=67E8F9" width="100%" alt="Futuristic cyberpunk GitHub profile banner for Befekadu Berhanu" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=780&lines=Systems+builder;AI+product+engineer;Mobile+app+architect;Cloud-native+problem+solver;Startup-minded+builder;Always+shipping+what+matters" alt="Typing animation for Abawu's developer identity" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=780&lines=Systems+builder;AI+product+engineer;Mobile+app+architect;Cloud-native+problem+solver;Startup-minded+builder;Always+shipping+what+matters" alt="Typing animation for Befekadu Berhanu's developer identity" /></a>
 
 <br>
 
@@ -13,13 +13,13 @@
 </div>
 
 ```bash
-abawu@github:~$ whoami
+befekadu@github:~$ whoami
 > AI + Cloud Engineer | Mobile App Architect | Full-Stack Builder
-abawu@github:~$ focus
+befekadu@github:~$ focus
 > Product thinking + scalable engineering + clean execution
-abawu@github:~$ stack
+befekadu@github:~$ stack
 > Flutter • Dart • TypeScript • React • Node.js • Docker • Firebase • GitHub Actions
-abawu@github:~$ mission
+befekadu@github:~$ mission
 > Turn ideas into products people actually use.
 ```
 
@@ -69,8 +69,8 @@ I’m especially interested in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abawu&show_icons=true&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=E2E8F0&icon_color=A78BFA&rank_icon=github" alt="GitHub stats for Abawu" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abawu&layout=compact&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=E2E8F0" alt="Top languages for Abawu" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abawu&show_icons=true&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=E2E8F0&icon_color=A78BFA&rank_icon=github" alt="GitHub stats for Befekadu Berhanu" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abawu&layout=compact&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=E2E8F0" alt="Top languages for Befekadu Berhanu" />
 
 </div>
 
